@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://x62.github.io/btgithubpagesdeploy",
+  "homepage": "https://x62.github.io/btgithubpagesdeploy/index.html",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
